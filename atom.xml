@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Project Liike (LEE-keh)</title>
+  <title>Project Liike (LEEE-keh)</title>
   <link href="http://liike.github.com/atom.xml" rel="self"/>
   <link href="http://liike.github.com/"/>
-  <updated>2011-10-01T14:28:51-07:00</updated>
+  <updated>2011-10-01T19:11:26-07:00</updated>
   <id>http://liike.github.com/</id>
   <author>
-    <name>patterns & practices</name>
+    <name>Microsoft patterns & practices</name>
     
       <email>liike@microsoft.com</email>
     
