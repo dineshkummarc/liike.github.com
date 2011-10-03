@@ -4,7 +4,7 @@
   <title>Project Liike (LEEE-keh)</title>
   <link href="http://liike.github.com/atom.xml" rel="self"/>
   <link href="http://liike.github.com/"/>
-  <updated>2011-10-02T13:52:57-07:00</updated>
+  <updated>2011-10-03T14:41:55-07:00</updated>
   <id>http://liike.github.com/</id>
   <author>
     <name>Microsoft patterns & practices</name>
@@ -13,6 +13,17 @@
     
   </author>
 
+  
+  <entry>
+    <title>The Doc Repo is Live</title>
+    <link href="http://liike.github.com/blog/2011/10/03/the-doc-repo-is-live/"/>
+    <updated>2011-10-03T13:53:00-07:00</updated>
+    <id>http://liike.github.com/blog/2011/10/03/the-doc-repo-is-live</id>
+    <content type="html">&lt;p&gt;As we begin our investigation into the specifics of tools, frameworks, and existing guidance, we&amp;#8217;re capturing our learnings on our brand new &lt;a href=&quot;http://github.com/liike/docs&quot;&gt;docs repo&lt;/a&gt;. Over time we&amp;#8217;ll be including small topics and other written content.&lt;/p&gt;
+
+&lt;p&gt;Don is also maintaining a delicious stack called &lt;a href=&quot;http://delicious.com/stacks/view/Cz4m7h&quot;&gt;Mobile Web Dev&lt;/a&gt; to keep track of good articles and links. If you have any choice links we should know about, throw them in the comments below.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>We Liike Mobile Web Dev</title>
