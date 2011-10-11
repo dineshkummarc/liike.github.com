@@ -16,5 +16,7 @@ You work for Contoso Automotive. Contoso has an existing browser-based applicati
 * Features should be driven by customer feedback.
 * Minimize the cost of maintenance by utilizing existing code when possible. 
 
+{% include voting.html %}
+
 <a rel="home" href="/scenarios/index.html">Index</a>
 <a rel="next" href="/scenarios/exploring-large-data-sets.html">Next</a>

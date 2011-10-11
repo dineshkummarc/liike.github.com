@@ -14,4 +14,6 @@ You are a developer building web apps for internal use at a large corporation. Y
 * The application only needs to be supported on a limited set of devices.
 * The application needs runs for extended periods; that is 8 or more hours at time.
 
+{% include voting.html %}
+
 <a rel="home" href="/scenarios/index.html">Index</a>

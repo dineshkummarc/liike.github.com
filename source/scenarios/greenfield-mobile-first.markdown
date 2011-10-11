@@ -16,5 +16,7 @@ You are the technical lead for a new startup venture. The company has a brillian
 * Features should be prioritized by the anticipated ROI.
 * The app should support the delivery of ads.
 
+{% include voting.html %}
+
 <a rel="home" href="/scenarios/index.html">Index</a>
 <a rel="next" href="/scenarios/line-of-business.html">Next</a>

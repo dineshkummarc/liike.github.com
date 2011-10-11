@@ -16,5 +16,7 @@ You work for Contoso Automotive. Contoso has gathered (and continues to gather) 
 * Data manipulation and visualization are core features.
 * The application should be responsive; performance is a high priority.
 
+{% include voting.html %}
+
 <a rel="home" href="/scenarios/index.html">Index</a>
 <a rel="next" href="/scenarios/greenfield-mobile-first.html">Next</a>
