@@ -2,7 +2,7 @@
 layout: page
 title: "Possible Scenarios"
 date: 2011-10-11 11:17
-comments: false
+comments: true
 sharing: true
 footer: true
 ---
