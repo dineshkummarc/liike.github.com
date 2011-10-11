@@ -91,26 +91,16 @@
 </ul>
 
 
-<div id="dsq-content" style="display: block; " class="clearfix">
-<div id="dsq-global-toolbar" class="dsq-clearfix"> 
-<ul class="dsq-global-toolbar-left dsq-clearfix">
-<li class="dsq-like-thread">
-<a href="#" id="dsq-like-thread-button" class="dsq-toolbar-item dsq-clearfix  dsq-tt" 
-onclick="DISQUS.dtpl.actions.fire('thread.vote', 1); return false;" original-title="I like this scenario">
-<span class="dsq-toolbar-icon"></span><span class="dsq-toolbar-label">Vote Up</span>
-</a>
-</li>
-<li class="dsq-dislike-thread">
-<a href="#" id="dsq-dislike-thread-button" class="dsq-toolbar-item dsq-clearfix  dsq-tt" 
-onclick="DISQUS.dtpl.actions.fire('thread.vote', -1); return false" original-title="I don't like this scenario">
-<span class="dsq-toolbar-icon"></span>Vote Down
-</a>
-</li>
-</ul>
+<div class="voting-panel">
+What do you think?
+<a data-vote="up" href="#" onclick="DISQUS.dtpl.actions.fire('thread.vote', 1); return false;" original-title="I like this scenario">Vote Up</a>
 
-<a rel="home" href="/scenarios/index.html">Index</a>
-<a rel="next" href="/scenarios/greenfield-mobile-first.html">Next</a>
+<a data-vote="down" href="#" onclick="DISQUS.dtpl.actions.fire('thread.vote', -1); return false" original-title="I don't like this scenario">Vote Down</a>
+</div>
 
+
+<p><a rel="home" href="/scenarios/index.html">Index</a>
+<a rel="next" href="/scenarios/greenfield-mobile-first.html">Next</a></p>
 
   
     <footer>
