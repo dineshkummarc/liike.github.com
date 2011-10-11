@@ -1,0 +1,167 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 244.0,
+		"selected_items":
+		[
+			[
+				"set ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/bennage.github.com/source/_posts/2011-10-10-being-a-new-kid-on-the-mobile-block.markdown",
+		"/C/dev/cross/cross.js",
+		"/C/Users/christb/Desktop/scenarios.markdown",
+		"/C/dev/bennage.github.com/source/about/index.markdown",
+		"/C/dev/bennage.github.com/_config.yml",
+		"/C/dev/bennage.github.com/source/_posts/2011-10-05-the-last-six-months.markdown",
+		"/C/dev/bennage.github.com/source/_posts/2011-10-04-finding-the-pulse.markdown",
+		"/C/dev/bennage.github.com/source/_posts/2011-08-09-restarting-node-when-your-source-changes.markdown",
+		"/C/dev/bennage.github.com/Rakefile",
+		"/C/dev/bennage.github.com/source/_posts/2011-10-03-blocks-and-playsets.markdown",
+		"/C/dev/bennage.github.com/source/_posts/2011-07-28-node-js-on-windows.markdown",
+		"/C/dev/octopress/Rakefile",
+		"/C/dev/bennage.github.com/plugins/code_block.rb",
+		"/C/dev/bennage.github.com/plugins/pygments_code.rb",
+		"/C/dev/bennage.github.com/_deploy/blog/2011/07/28/node-js-on-windows/index.html",
+		"/C/dev/octopress/_config.yml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new_post",
+			"new_page",
+			"multitask",
+			"deploy_default",
+			"deploy_dir",
+			"public_dir",
+			":dest",
+			":copydot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}
