@@ -15,3 +15,5 @@ We want to be able to focus our efforts on real problems that developers and des
 * [Secure and Long-lived Line-of-Business apps](/scenarios/line-of-business.html)
 
 Is something missing? Let us know in the comments below. Get your friends, neighbors and coworkers to vote it up and we'll add it to the "official" list above.
+
+<a rel="next" href="/scenarios/extending-existing-apps.html">Get Started</a>
