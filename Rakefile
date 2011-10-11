@@ -16,7 +16,7 @@ deploy_branch  = "master"
 
 public_dir      = "public"    # compiled site directory
 source_dir      = "source"    # source file directory
-blog_index_dir  = 'source/blog'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
+blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
@@ -99,7 +99,7 @@ task :new_post, :title do |t, args|
   end
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
-    system "mkdir -p #{source_dir}/#{posts_dir}/";
+    mkdir_p "#{source_dir}/#{posts_dir}"
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;').titlecase}\""
@@ -230,7 +230,7 @@ multitask :push do
   (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
   Rake::Task[:copydot].invoke(public_dir, deploy_dir)
   puts "\n## copying #{public_dir} to #{deploy_dir}"
-  system "cp -R #{public_dir}/* #{deploy_dir}"
+  copy_entry "#{public_dir}", "#{deploy_dir}"
   cd "#{deploy_dir}" do
     system "git add ."
     system "git add -u"
