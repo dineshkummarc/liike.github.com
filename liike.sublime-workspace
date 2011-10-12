@@ -59,7 +59,7 @@
 			"file": "source/_includes/asides/recent_comments.html",
 			"settings":
 			{
-				"buffer_size": 331,
+				"buffer_size": 280,
 				"line_ending": "Windows"
 			}
 		},
@@ -75,9 +75,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 118.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Discover Packages"
+			],
 			[
 				"set sass",
 				"Set Syntax: CSS"
@@ -91,7 +103,7 @@
 				"Set Syntax: Ruby"
 			]
 		],
-		"width": 512.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -348,15 +360,15 @@
 					"file": "source/_includes/asides/recent_comments.html",
 					"settings":
 					{
-						"buffer_size": 331,
+						"buffer_size": 280,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								331,
-								331
+								280,
+								280
 							]
 						],
 						"settings":
