@@ -7,13 +7,81 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "source/scenarios/extending-existing-apps.markdown",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/_includes/voting.html",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/scenarios/exploring-large-data-sets.markdown",
+			"settings":
+			{
+				"buffer_size": 1041,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/scenarios/greenfield-mobile-first.markdown",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/scenarios/line-of-business.markdown",
+			"settings":
+			{
+				"buffer_size": 1014,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/scenarios/index.markdown",
+			"settings":
+			{
+				"buffer_size": 1162,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/_includes/asides/recent_comments.html",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2453,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 244.0,
+		"height": 118.0,
 		"selected_items":
 		[
+			[
+				"set sass",
+				"Set Syntax: CSS"
+			],
 			[
 				"set ma",
 				"Set Syntax: Markdown"
@@ -27,7 +95,7 @@
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 199.0
 	},
 	"distraction_free":
 	{
@@ -40,15 +108,25 @@
 	},
 	"file_history":
 	[
+		"/C/dev/liike.github.com/sass/custom/_styles.scss",
+		"/C/dev/liike.github.com/public/atom.xml",
+		"/C/dev/liike.github.com/source/scenarios/index.markdown",
+		"/C/dev/liike.github.com/source/_includes/custom/navigation.html",
+		"/C/dev/liike.github.com/source/_includes/scenarios.html",
+		"/C/dev/liike.github.com/source/scenarios/line-of-business.markdown",
+		"/C/dev/liike.github.com/source/scenarios/greenfield-mobile-first.markdown",
+		"/C/dev/liike.github.com/Rakefile",
+		"/C/dev/liike.github.com/source/scenarios/exploring-large-data-sets.markdown",
+		"/C/dev/liike.github.com/source/scenarios/extending-existing-apps.markdown",
+		"/C/dev/bennage.github.com/Rakefile",
+		"/C/Users/christb/Desktop/scenarios.markdown",
 		"/C/dev/bennage.github.com/source/_posts/2011-10-10-being-a-new-kid-on-the-mobile-block.markdown",
 		"/C/dev/cross/cross.js",
-		"/C/Users/christb/Desktop/scenarios.markdown",
 		"/C/dev/bennage.github.com/source/about/index.markdown",
 		"/C/dev/bennage.github.com/_config.yml",
 		"/C/dev/bennage.github.com/source/_posts/2011-10-05-the-last-six-months.markdown",
 		"/C/dev/bennage.github.com/source/_posts/2011-10-04-finding-the-pulse.markdown",
 		"/C/dev/bennage.github.com/source/_posts/2011-08-09-restarting-node-when-your-source-changes.markdown",
-		"/C/dev/bennage.github.com/Rakefile",
 		"/C/dev/bennage.github.com/source/_posts/2011-10-03-blocks-and-playsets.markdown",
 		"/C/dev/bennage.github.com/source/_posts/2011-07-28-node-js-on-windows.markdown",
 		"/C/dev/octopress/Rakefile",
@@ -76,6 +154,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">Scenarios<",
+			"article",
+			"full-article",
 			"new_post",
 			"new_page",
 			"multitask",
@@ -91,6 +172,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			">Index<"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -101,8 +183,218 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "source/scenarios/extending-existing-apps.markdown",
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1038,
+								1013
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/_includes/voting.html",
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/scenarios/exploring-large-data-sets.markdown",
+					"settings":
+					{
+						"buffer_size": 1041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								892,
+								892
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/scenarios/greenfield-mobile-first.markdown",
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								966,
+								966
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/scenarios/line-of-business.markdown",
+					"settings":
+					{
+						"buffer_size": 1014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								961,
+								961
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/scenarios/index.markdown",
+					"settings":
+					{
+						"buffer_size": 1162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/_includes/asides/recent_comments.html",
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 2453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1498,
+								1498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -139,7 +431,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 74.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -162,6 +454,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 213.0,
+	"side_bar_width": 242.0,
 	"status_bar_visible": true
 }
