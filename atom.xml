@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Project Liike (LEEE-keh)</title>
+  <link href="http://liike.github.com/atom.xml" rel="self"/>
+  <link href="http://liike.github.com/"/>
+  <updated>2011-10-11T17:56:11-07:00</updated>
+  <id>http://liike.github.com/</id>
+  <author>
+    <name>Microsoft patterns & practices</name>
+    
+      <email>liike@microsoft.com</email>
+    
+  </author>
+
+  
+  <entry>
+    <title>The Doc Repo is Live</title>
+    <link href="http://liike.github.com/blog/2011/10/03/the-doc-repo-is-live/"/>
+    <updated>2011-10-03T13:53:00-07:00</updated>
+    <id>http://liike.github.com/blog/2011/10/03/the-doc-repo-is-live</id>
+    <content type="html">&lt;p&gt;As we begin our investigation into the specifics of tools, frameworks, and existing guidance, we&amp;#8217;re capturing our learnings on our brand new &lt;a href=&quot;http://github.com/liike/docs&quot;&gt;docs repo&lt;/a&gt;. Over time we&amp;#8217;ll be including small topics and other written content.&lt;/p&gt;
+
+&lt;p&gt;Don is also maintaining a delicious stack called &lt;a href=&quot;http://delicious.com/stacks/view/Cz4m7h&quot;&gt;Mobile Web Dev&lt;/a&gt; to keep track of good articles and links. If you have any choice links we should know about, throw them in the comments below.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>We Liike Mobile Web Dev</title>
+    <link href="http://liike.github.com/blog/2011/10/01/we-liike-mobile-web-dev/"/>
+    <updated>2011-10-01T08:51:00-07:00</updated>
+    <id>http://liike.github.com/blog/2011/10/01/we-liike-mobile-web-dev</id>
+    <content type="html">&lt;p&gt;Over the past month I&amp;#8217;ve had some conversations with some Microsoft customers, product teams, and some field consultants to help us decide if we should invest in producing guidance for building mobile web apps. Everyone agreed this would be useful to customers, useful to Microsoft, and it&amp;#8217;s a space that actually warrants guidance. So it looks like we&amp;#8217;re on!&lt;/p&gt;
+
+&lt;p&gt;The plan is for Chris to be the dev lead with me playing the PM role. Other team members will join us after we define more project specifics. So yesterday Chris and I arrived at what we think would be a reasonable scenario. Try this on for size:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Customer:&lt;/strong&gt; &lt;em&gt;We have an existing solution (content and application logic) built using web technologies and we&amp;#8217;re considering an effort to explicitly expose it to mobile devices. What do we need to know to be successful?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, this is still pretty broad, but it allows us to start small and pragmatic. Plus, the real specifics are in the questions we&amp;#8217;ll be trying to answer. Maybe questions like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Which existing assets can I reuse? And how?&lt;/li&gt;
+&lt;li&gt;How can I make the experience available offline?&lt;/li&gt;
+&lt;li&gt;Should we do device detection or feature detection? How?&lt;/li&gt;
+&lt;li&gt;How to accommodate for various screen sizes across devices?&lt;/li&gt;
+&lt;li&gt;When should I consider PhoneGap or a native solution?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Of course these are just examples. What we really want to hear are the questions YOU think are important, or were important when you did it. We&amp;#8217;ll be posting a survey soon with some suggestions and a chance for you share so we&amp;#8217;ll have a prioritized backlog to work from.&lt;/p&gt;
+
+&lt;p&gt;As far as deliverables go, we&amp;#8217;re planning to produce two things: the source to a mobile web solution and a set of written content to describe what we learned along the way. The solution will likely be derived from &lt;a href=&quot;http://tinyurl.com/projectsilk&quot;&gt;Project Silk&lt;/a&gt;&amp;#8217;s Mileage Stats reference implementation and the written content will either be a set of articles or chapters in a book depending on how far we decide to take it. Anything else you&amp;#8217;d like to see?&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
