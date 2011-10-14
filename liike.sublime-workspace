@@ -16,58 +16,10 @@
 			}
 		},
 		{
-			"file": "source/_includes/voting.html",
-			"settings":
-			{
-				"buffer_size": 180,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/scenarios/exploring-large-data-sets.markdown",
-			"settings":
-			{
-				"buffer_size": 1041,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/scenarios/greenfield-mobile-first.markdown",
-			"settings":
-			{
-				"buffer_size": 1108,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/scenarios/line-of-business.markdown",
-			"settings":
-			{
-				"buffer_size": 1014,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/scenarios/index.markdown",
-			"settings":
-			{
-				"buffer_size": 1162,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/_includes/asides/recent_comments.html",
-			"settings":
-			{
-				"buffer_size": 280,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 2453,
+				"buffer_size": 2457,
 				"line_ending": "Unix"
 			}
 		}
@@ -120,15 +72,18 @@
 	},
 	"file_history":
 	[
+		"/C/dev/liike.github.com/source/_includes/voting.html",
+		"/C/dev/liike.github.com/source/scenarios/exploring-large-data-sets.markdown",
+		"/C/dev/liike.github.com/source/scenarios/greenfield-mobile-first.markdown",
+		"/C/dev/liike.github.com/source/scenarios/line-of-business.markdown",
+		"/C/dev/liike.github.com/source/scenarios/index.markdown",
+		"/C/dev/liike.github.com/source/_includes/asides/recent_comments.html",
+		"/C/dev/liike.github.com/_config.yml",
 		"/C/dev/liike.github.com/sass/custom/_styles.scss",
 		"/C/dev/liike.github.com/public/atom.xml",
-		"/C/dev/liike.github.com/source/scenarios/index.markdown",
 		"/C/dev/liike.github.com/source/_includes/custom/navigation.html",
 		"/C/dev/liike.github.com/source/_includes/scenarios.html",
-		"/C/dev/liike.github.com/source/scenarios/line-of-business.markdown",
-		"/C/dev/liike.github.com/source/scenarios/greenfield-mobile-first.markdown",
 		"/C/dev/liike.github.com/Rakefile",
-		"/C/dev/liike.github.com/source/scenarios/exploring-large-data-sets.markdown",
 		"/C/dev/liike.github.com/source/scenarios/extending-existing-apps.markdown",
 		"/C/dev/bennage.github.com/Rakefile",
 		"/C/Users/christb/Desktop/scenarios.markdown",
@@ -195,7 +150,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -226,175 +181,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "source/_includes/voting.html",
-					"settings":
-					{
-						"buffer_size": 180,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								162,
-								162
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "source/scenarios/exploring-large-data-sets.markdown",
-					"settings":
-					{
-						"buffer_size": 1041,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								892,
-								892
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "source/scenarios/greenfield-mobile-first.markdown",
-					"settings":
-					{
-						"buffer_size": 1108,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								966,
-								966
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "source/scenarios/line-of-business.markdown",
-					"settings":
-					{
-						"buffer_size": 1014,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								961,
-								961
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "source/scenarios/index.markdown",
-					"settings":
-					{
-						"buffer_size": 1162,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								71,
-								71
-							]
-						],
-						"settings":
-						{
-							"spell_check": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "source/_includes/asides/recent_comments.html",
-					"settings":
-					{
-						"buffer_size": 280,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								280,
-								280
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
 					"file": "_config.yml",
 					"settings":
 					{
-						"buffer_size": 2453,
+						"buffer_size": 2457,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1498,
-								1498
+								2311,
+								2311
 							]
 						],
 						"settings":
@@ -402,7 +200,7 @@
 							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 546.0,
+						"translation.y": 1326.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -459,6 +257,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/C/dev/bennage.github.com/blog.sublime-project"
+			]
 		],
 		"width": 380.0
 	},

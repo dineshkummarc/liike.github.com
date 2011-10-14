@@ -71,8 +71,8 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
-delicious_count: 3
+delicious_user: liike
+delicious_count: 5
 
 # Disqus Comments
 disqus_short_name: liike
