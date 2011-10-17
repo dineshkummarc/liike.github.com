@@ -11,7 +11,16 @@ Project Liike is a effort to produce guidance that helps organizations build mob
 The [Microsoft patterns & practices](http://msdn.microsoft.com/practices) team is a group of engineers (developers, testers, program managers), designers, and technical writers who produce guidance to help the larger community build solutions. We hope to make the mistakes so you don't have to.
 
 ## What
-Generally speaking, the guidance is delivered in two related forms: code and prose. The outcome of the project is most often a sample application (complete with its unit tests) as open source code, and all the necessary written content to describe our lessons learned, decision points and recommendations. It's all completely free - don't even have to sign in anywhere to get the goods.
+Generally speaking, the guidance is delivered in two related forms: code and prose. The outcome of the project is most often a sample application (complete with its unit tests) as open source code, and all the necessary written content to describe our lessons learned, decision points and recommendations. The first order of business is to identify the [scenario](/scenarios) that will have the most impact in the community. We then implement enough of the scenario to identify some challenges (of course we have [already identified some](http://liike.uservoice.com)). We will prioritize the challenges/solutions and write them up as patterns accompanied by source code that isolates the pattern. We will tackle as many as our time and budget constrainsts will permit. This will all be completely free - you don't even have to sign in anywhere to get the goods.
+
+## Principles
+ - This project values open, standards-based development
+ - We value the great work already available and intend to thank existing thought-leaders through attribution
+ - This work should happen in the open so everyone is able to follow along
+ - This project represents a conversation not a dictation
+ - We would like to meet the community where it is - using what it's using
+ - The guidance should be based on the best thinking avilable but also the scenarios customers care about
+ - Will use the best open source libraries/frameworks available when appropriate
 
 ## How
 We hire experts, developers, testers, and writers to augment our team of full-time employees to build these deliverables. We do so using agile/scrum team practices that operate on weekly or fortnightly sprints. At the end of each iteration we hold calls with a group of advisors to demo the new stuff, discuss decision points, and get feedback on our direction. This feedback is crucial to our success.
