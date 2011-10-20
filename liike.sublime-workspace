@@ -8,19 +8,19 @@
 	"buffers":
 	[
 		{
-			"file": "source/scenarios/extending-existing-apps.markdown",
+			"file": "source/scenarios/line-of-business.markdown",
 			"settings":
 			{
-				"buffer_size": 1165,
+				"buffer_size": 1091,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_config.yml",
+			"file": "source/_posts/2011-10-19-mobile-developent-and-device-detection.markdown",
 			"settings":
 			{
-				"buffer_size": 2457,
-				"line_ending": "Unix"
+				"buffer_size": 4562,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -72,19 +72,22 @@
 	},
 	"file_history":
 	[
+		"/C/dev/liike.github.com/source/javascripts/octopress.js",
+		"/C/dev/liike.github.com/source/_includes/asides/delicious.html",
+		"/C/dev/liike.github.com/source/scenarios/extending-existing-apps.markdown",
+		"/C/dev/liike.github.com/_config.yml",
+		"/C/dev/wurlf/gitignore",
 		"/C/dev/liike.github.com/source/_includes/voting.html",
 		"/C/dev/liike.github.com/source/scenarios/exploring-large-data-sets.markdown",
 		"/C/dev/liike.github.com/source/scenarios/greenfield-mobile-first.markdown",
 		"/C/dev/liike.github.com/source/scenarios/line-of-business.markdown",
 		"/C/dev/liike.github.com/source/scenarios/index.markdown",
 		"/C/dev/liike.github.com/source/_includes/asides/recent_comments.html",
-		"/C/dev/liike.github.com/_config.yml",
 		"/C/dev/liike.github.com/sass/custom/_styles.scss",
 		"/C/dev/liike.github.com/public/atom.xml",
 		"/C/dev/liike.github.com/source/_includes/custom/navigation.html",
 		"/C/dev/liike.github.com/source/_includes/scenarios.html",
 		"/C/dev/liike.github.com/Rakefile",
-		"/C/dev/liike.github.com/source/scenarios/extending-existing-apps.markdown",
 		"/C/dev/bennage.github.com/Rakefile",
 		"/C/Users/christb/Desktop/scenarios.markdown",
 		"/C/dev/bennage.github.com/source/_posts/2011-10-10-being-a-new-kid-on-the-mobile-block.markdown",
@@ -121,6 +124,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"renderDeliciousLinks",
 			">Scenarios<",
 			"article",
 			"full-article",
@@ -150,23 +154,22 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "source/scenarios/extending-existing-apps.markdown",
+					"file": "source/scenarios/line-of-business.markdown",
 					"settings":
 					{
-						"buffer_size": 1165,
+						"buffer_size": 1091,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1038,
-								1013
+								110,
+								110
 							]
 						],
 						"settings":
@@ -181,26 +184,26 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_config.yml",
+					"file": "source/_posts/2011-10-19-mobile-developent-and-device-detection.markdown",
 					"settings":
 					{
-						"buffer_size": 2457,
+						"buffer_size": 4562,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2311,
-								2311
+								4446,
+								4446
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1326.0,
+						"translation.y": 1535.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -268,6 +271,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 242.0,
+	"side_bar_width": 406.0,
 	"status_bar_visible": true
 }
