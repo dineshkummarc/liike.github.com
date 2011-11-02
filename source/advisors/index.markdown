@@ -5,14 +5,13 @@ date: 2011-11-02 10:52
 comments: false
 sharing: false
 footer: true
-published: false
 ---
 
-Guidance is harvested from experience and matured through dialog. An essential component for projects in p&p is our advisory boards. We prefer diversity in our boards, which includes both Microsoft employees and members from the community at large. We need subject matter experts and passionate novices. We want independent consultants and drivers from large enterprise teams across a wide variety of industries.
+Guidance is harvested from experience and matured through dialog. An essential component for projects in p&p is our advisory boards. We prefer diversity in our boards, which include both Microsoft employees and members from the community at large. We like subject matter experts and passionate novices. We want independent consultants and drivers from large enterprise teams across a wide variety of industries.
 
 ## What does the project hope to gain from an advisory board?
 
-The advisory board is a representative body for our customers. They help us to set priorities for the project and they provide real-time feedback about the software we are writing.
+The advisory board is a representative body for our customers. They help us to set priorities for the project and they provide real-time feedback about the software we are creating.
 
 We also benefit when our advisors engage their respective communities about the project in order to collect a broad set of feedback. Our ultimate goal is produce practical guidance for real world development problems.
 
@@ -30,4 +29,4 @@ When the project is released, it is posted on [MSDN](http://msdn.microsoft.com/p
 
 ## What are the qualifications for being an advisor?
 
-First, an advisor needs to _care_ about HTML5 and the mobile web. Secondly, they need to be willing to participate in the feedback process. With respect to technical knowledge, both real world experience or a need to be successful in the near future are good qualities to bring to the table.
+First, an advisor needs to _care_ about HTML5 and the mobile web. Secondly, they need to be willing to participate in the feedback process. With respect to technical knowledge, both real world experience or the need to be successful in the near future are good qualities to bring to the table.
