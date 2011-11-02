@@ -30,3 +30,11 @@ When the project is released, it is posted on [MSDN](http://msdn.microsoft.com/p
 ## What are the qualifications for being an advisor?
 
 First, an advisor needs to _care_ about HTML5 and the mobile web. Secondly, they need to be willing to participate in the feedback process. With respect to technical knowledge, both real world experience or the need to be successful in the near future are good qualities to bring to the table.
+
+## I'd like to be an advisor on this project, what do I do?
+
+Send an email to us at _**liike** at **microsoft** dot **com**_ and let us know the following:
+
+* What is your connection to the mobile web? 
+* What experiences do you have or hope to have with the mobile web?
+* Any places where you share with a community; such as a blog, twitter, etc.
