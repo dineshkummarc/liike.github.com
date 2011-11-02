@@ -19,7 +19,26 @@
 			"file": "source/_posts/2011-10-19-mobile-developent-and-device-detection.markdown",
 			"settings":
 			{
-				"buffer_size": 4562,
+				"buffer_size": 4566,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2477,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/dev/depcheck/DependencyChecker/make_mah_data.sql",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -72,6 +91,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/christb/Mercurial.ini",
 		"/C/dev/liike.github.com/source/javascripts/octopress.js",
 		"/C/dev/liike.github.com/source/_includes/asides/delicious.html",
 		"/C/dev/liike.github.com/source/scenarios/extending-existing-apps.markdown",
@@ -154,6 +174,7 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -187,15 +208,15 @@
 					"file": "source/_posts/2011-10-19-mobile-developent-and-device-detection.markdown",
 					"settings":
 					{
-						"buffer_size": 4562,
+						"buffer_size": 4566,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4446,
-								4446
+								0,
+								0
 							]
 						],
 						"settings":
@@ -204,6 +225,58 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1535.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 2477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2208,
+								2208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1817.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/dev/depcheck/DependencyChecker/make_mah_data.sql",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
