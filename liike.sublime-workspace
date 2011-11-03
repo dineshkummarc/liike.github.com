@@ -8,18 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "source/scenarios/line-of-business.markdown",
+			"file": "source/team/index.markdown",
 			"settings":
 			{
-				"buffer_size": 1091,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/_posts/2011-10-19-mobile-developent-and-device-detection.markdown",
-			"settings":
-			{
-				"buffer_size": 4566,
+				"buffer_size": 1806,
 				"line_ending": "Windows"
 			}
 		},
@@ -32,14 +24,27 @@
 			}
 		},
 		{
-			"contents": "",
-			"file": "/C/dev/depcheck/DependencyChecker/make_mah_data.sql",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "source/advisors/index.markdown",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 3061,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/_includes/custom/navigation.html",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_includes/asides/recent_posts.html",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -91,21 +96,24 @@
 	},
 	"file_history":
 	[
+		"/C/dev/liike.github.com/source/_includes/custom/navigation.html",
+		"/C/dev/liike.github.com/source/who/index.markdown",
+		"/C/dev/liike.github.com/source/scenarios/line-of-business.markdown",
+		"/C/dev/liike.github.com/source/_posts/2011-10-19-mobile-developent-and-device-detection.markdown",
+		"/C/dev/liike.github.com/_config.yml",
+		"/C/dev/depcheck/DependencyChecker/make_mah_data.sql",
 		"/C/Users/christb/Mercurial.ini",
 		"/C/dev/liike.github.com/source/javascripts/octopress.js",
 		"/C/dev/liike.github.com/source/_includes/asides/delicious.html",
 		"/C/dev/liike.github.com/source/scenarios/extending-existing-apps.markdown",
-		"/C/dev/liike.github.com/_config.yml",
 		"/C/dev/wurlf/gitignore",
 		"/C/dev/liike.github.com/source/_includes/voting.html",
 		"/C/dev/liike.github.com/source/scenarios/exploring-large-data-sets.markdown",
 		"/C/dev/liike.github.com/source/scenarios/greenfield-mobile-first.markdown",
-		"/C/dev/liike.github.com/source/scenarios/line-of-business.markdown",
 		"/C/dev/liike.github.com/source/scenarios/index.markdown",
 		"/C/dev/liike.github.com/source/_includes/asides/recent_comments.html",
 		"/C/dev/liike.github.com/sass/custom/_styles.scss",
 		"/C/dev/liike.github.com/public/atom.xml",
-		"/C/dev/liike.github.com/source/_includes/custom/navigation.html",
 		"/C/dev/liike.github.com/source/_includes/scenarios.html",
 		"/C/dev/liike.github.com/Rakefile",
 		"/C/dev/bennage.github.com/Rakefile",
@@ -132,10 +140,7 @@
 	"find_in_files":
 	{
 		"height": 0.0,
-		"include_history":
-		[
-		],
-		"location_history":
+		"where_history":
 		[
 		]
 	},
@@ -167,7 +172,7 @@
 		],
 		"reverse": false,
 		"show_context": true,
-		"use_buffer": true,
+		"use_buffer2": true,
 		"whole_word": false,
 		"wrap": true
 	},
@@ -179,58 +184,33 @@
 			[
 				{
 					"buffer": 0,
-					"file": "source/scenarios/line-of-business.markdown",
+					"file": "source/team/index.markdown",
 					"settings":
 					{
-						"buffer_size": 1091,
+						"buffer_size": 1806,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								110,
-								110
+								1173,
+								1173
 							]
 						],
 						"settings":
 						{
+							"spell_check": true,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 234.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "source/_posts/2011-10-19-mobile-developent-and-device-detection.markdown",
-					"settings":
-					{
-						"buffer_size": 4566,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1535.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "_config.yml",
 					"settings":
 					{
@@ -241,8 +221,8 @@
 						"selection":
 						[
 							[
-								2208,
-								2208
+								497,
+								497
 							]
 						],
 						"settings":
@@ -250,30 +230,83 @@
 							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1817.0,
+						"translation.y": 1076.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/dev/depcheck/DependencyChecker/make_mah_data.sql",
+					"buffer": 2,
+					"file": "source/advisors/index.markdown",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 3061,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2983,
+								2983
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/SQL/SQL.tmLanguage"
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/_includes/custom/navigation.html",
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/_includes/asides/recent_posts.html",
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
