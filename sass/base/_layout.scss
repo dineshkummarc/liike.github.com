@@ -63,8 +63,8 @@ body {
   }
   > header {
     font-size: 1em;
-    padding-top: 1.5em;
-    padding-bottom: 1.5em;
+    padding-top: 1.0em;
+    padding-bottom: 1.0em;
   }
 }
 
@@ -158,10 +158,21 @@ body.sidebar-footer {
       @extend .group;
     }
   }
+
+  a.pnp {
+    position: absolute;
+    top: 12px;
+    right: 24px;
+  }
 }
 
 @if $indented-lists == false {
   @media only screen and (min-width: 768px) {
     ul, ol { margin-left: 0; }
+      a.pnp {
+    position: absolute;
+    top: 12px;
+    right: 24px;
+  }
   }
 }

@@ -19,7 +19,6 @@ body > nav {
       @include border-radius(.5em);
       @include background-clip(padding-box);
       @include box-shadow(lighten($nav-bg, 2) 0 1px);
-      background-color: lighten($nav-bg, 15);
       border: 1px solid $nav-border;
       color: #888;
       &:focus {
@@ -99,7 +98,7 @@ body > nav {
 }
 .no-placeholder {
   body > nav .search {
-    background: lighten($nav-bg, 15) image-url('search.png') .3em .25em no-repeat;
+    background: #fff image-url('search.png') .3em .25em no-repeat;
     text-indent: 1.3em;
   }
 }

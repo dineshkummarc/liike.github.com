@@ -7,46 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "source/team/index.markdown",
-			"settings":
-			{
-				"buffer_size": 1806,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 2477,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "source/advisors/index.markdown",
-			"settings":
-			{
-				"buffer_size": 3061,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "source/_includes/custom/navigation.html",
-			"settings":
-			{
-				"buffer_size": 306,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "source/_includes/asides/recent_posts.html",
-			"settings":
-			{
-				"buffer_size": 329,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -96,11 +56,15 @@
 	},
 	"file_history":
 	[
+		"/C/dev/liike.github.com/source/_includes/asides/recent_posts.html",
 		"/C/dev/liike.github.com/source/_includes/custom/navigation.html",
+		"/C/dev/liike.github.com/source/advisors/index.markdown",
+		"/C/dev/liike.github.com/_config.yml",
+		"/C/dev/liike.github.com/source/team/index.markdown",
+		"/C/Users/christb/Desktop/.gitignore",
 		"/C/dev/liike.github.com/source/who/index.markdown",
 		"/C/dev/liike.github.com/source/scenarios/line-of-business.markdown",
 		"/C/dev/liike.github.com/source/_posts/2011-10-19-mobile-developent-and-device-detection.markdown",
-		"/C/dev/liike.github.com/_config.yml",
 		"/C/dev/depcheck/DependencyChecker/make_mah_data.sql",
 		"/C/Users/christb/Mercurial.ini",
 		"/C/dev/liike.github.com/source/javascripts/octopress.js",
@@ -179,141 +143,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "source/team/index.markdown",
-					"settings":
-					{
-						"buffer_size": 1806,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1173,
-								1173
-							]
-						],
-						"settings":
-						{
-							"spell_check": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 234.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_config.yml",
-					"settings":
-					{
-						"buffer_size": 2477,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								497,
-								497
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1076.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "source/advisors/index.markdown",
-					"settings":
-					{
-						"buffer_size": 3061,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2983,
-								2983
-							]
-						],
-						"settings":
-						{
-							"spell_check": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 780.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "source/_includes/custom/navigation.html",
-					"settings":
-					{
-						"buffer_size": 306,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								273,
-								273
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "source/_includes/asides/recent_posts.html",
-					"settings":
-					{
-						"buffer_size": 329,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								292,
-								292
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
