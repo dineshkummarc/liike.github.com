@@ -6,8 +6,15 @@
 </ul>
 <form action="{{ site.simple_search }}" method="get">
   <fieldset role="search">
-    <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}" />
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
+  <script type="text/javascript">
+$.domReady(function() {
+	$('form').bind( {'submit': function(form) {
+		var query = $('[name=q]').val();
+		$('[name=q]').val( query + ' site:liike.github.com');
+	 }} );
+});
+  </script>
 {% include custom/navigation.html %}
