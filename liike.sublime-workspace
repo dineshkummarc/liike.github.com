@@ -56,10 +56,18 @@
 	},
 	"file_history":
 	[
+		"/C/Users/christb/Desktop/globe.svg",
+		"/C/dev/liike.github.com/sass/custom/_colors.scss",
+		"/C/dev/liike.github.com/sass/base/_theme.scss",
+		"/C/dev/liike.github.com/source/_includes/custom/header.html",
+		"/C/dev/liike.github.com/sass/base/_layout.scss",
+		"/C/dev/liike.github.com/sass/partials/_navigation.scss",
+		"/C/dev/liike.github.com/source/_includes/navigation.html",
+		"/C/dev/liike.github.com/_config.yml",
+		"/C/dev/liike.github.com/source/_layouts/default.html",
 		"/C/dev/liike.github.com/source/_includes/asides/recent_posts.html",
 		"/C/dev/liike.github.com/source/_includes/custom/navigation.html",
 		"/C/dev/liike.github.com/source/advisors/index.markdown",
-		"/C/dev/liike.github.com/_config.yml",
 		"/C/dev/liike.github.com/source/team/index.markdown",
 		"/C/Users/christb/Desktop/.gitignore",
 		"/C/dev/liike.github.com/source/who/index.markdown",
@@ -113,6 +121,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".search",
+			"search",
+			"nav form",
+			"$noise-bg",
 			"renderDeliciousLinks",
 			">Scenarios<",
 			"article",
