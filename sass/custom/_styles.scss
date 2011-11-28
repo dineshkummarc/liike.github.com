@@ -21,3 +21,18 @@ a[rel=home], a[rel=next] {
   display: block;
   margin-bottom: 16px;
 }
+
+dl {
+  margin: 16px;
+}
+
+dt {
+  font-weight: bold;
+  margin-bottom: 6px;
+  font-style: italic;
+  font-size: 110%;
+}
+
+dd {
+  margin-bottom: 16px;
+}
