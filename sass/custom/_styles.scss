@@ -36,3 +36,12 @@ dt {
 dd {
   margin-bottom: 16px;
 }
+
+a[href^="http://twitter.com/#!/"] {
+  display: block;
+  padding-left: 28px;
+  padding-bottom: 4px;
+  background-image: url(/images/bird_24_gray.png);
+  background-repeat: no-repeat;
+  text-decoration: none;
+}
