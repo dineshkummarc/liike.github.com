@@ -8,11 +8,19 @@
 	"buffers":
 	[
 		{
-			"file": "source/advisors/2011-11-23/index.markdown",
+			"file": "source/advisors/members/index.markdown",
 			"settings":
 			{
-				"buffer_size": 5215,
+				"buffer_size": 2998,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/custom/_styles.scss",
+			"settings":
+			{
+				"buffer_size": 942,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -64,6 +72,12 @@
 	},
 	"file_history":
 	[
+		"/C/dev/liike.github.com/source/advisors/index.markdown",
+		"/C/dev/liike.github.com/source/team/index.markdown",
+		"/C/dev/liike.github.com/source/advisors/faq/index.markdown",
+		"/C/dev/liike.github.com/sass/custom/_styles.scss",
+		"/C/dev/liike.github.com/source/advisors/2011-11-23/index.markdown",
+		"/C/dev/liike.github.com/source/advisors/members/index.markdown",
 		"/C/Users/christb/Desktop/globe.svg",
 		"/C/dev/liike.github.com/sass/custom/_colors.scss",
 		"/C/dev/liike.github.com/sass/base/_theme.scss",
@@ -75,8 +89,6 @@
 		"/C/dev/liike.github.com/source/_layouts/default.html",
 		"/C/dev/liike.github.com/source/_includes/asides/recent_posts.html",
 		"/C/dev/liike.github.com/source/_includes/custom/navigation.html",
-		"/C/dev/liike.github.com/source/advisors/index.markdown",
-		"/C/dev/liike.github.com/source/team/index.markdown",
 		"/C/Users/christb/Desktop/.gitignore",
 		"/C/dev/liike.github.com/source/who/index.markdown",
 		"/C/dev/liike.github.com/source/scenarios/line-of-business.markdown",
@@ -92,7 +104,6 @@
 		"/C/dev/liike.github.com/source/scenarios/greenfield-mobile-first.markdown",
 		"/C/dev/liike.github.com/source/scenarios/index.markdown",
 		"/C/dev/liike.github.com/source/_includes/asides/recent_comments.html",
-		"/C/dev/liike.github.com/sass/custom/_styles.scss",
 		"/C/dev/liike.github.com/public/atom.xml",
 		"/C/dev/liike.github.com/source/_includes/scenarios.html",
 		"/C/dev/liike.github.com/Rakefile",
@@ -129,6 +140,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"	",
+			"[http://",
 			".search",
 			"search",
 			"nav form",
@@ -168,27 +181,54 @@
 			[
 				{
 					"buffer": 0,
-					"file": "source/advisors/2011-11-23/index.markdown",
+					"file": "source/advisors/members/index.markdown",
 					"settings":
 					{
-						"buffer_size": 5215,
+						"buffer_size": 2998,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16,
-								16
+								1550,
+								1550
 							]
 						],
 						"settings":
 						{
-							"spell_check": true,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1256.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/custom/_styles.scss",
+					"settings":
+					{
+						"buffer_size": 942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								939,
+								939
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 567.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
