@@ -36,6 +36,10 @@ The current list of advisory board members:
 [blog.duc.as](http://blog.duc.as)	
 [@ducas](http://twitter.com/#!/ducas)
 
+## Jon Arne Sæterås
+[mobiletech.mobi](http://www.mobiletech.mobi/)
+[@jonarnes](http://twitter.com/#!/jonarnes)
+
 ## Josh Twist
 [thejoyofcode.com](http://thejoyofcode.com)	
 [@joshtwist](http://twitter.com/#!/joshtwist)
