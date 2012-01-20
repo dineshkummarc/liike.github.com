@@ -13,10 +13,6 @@ The current list of advisory board members:
 [blog.alexonasp.net](http://blog.alexonasp.net)	
 [@alexzeitler](http://twitter.com/#!/alexzeitler)
 
-## Bryan Rieger
-[bryanrieger.com](http://bryanrieger.com)	
-[@bryanrieger](http://twitter.com/#!/bryanrieger)
-
 ## Chris Love
 [professionalaspnet.com](http://professionalaspnet.com)	
 [@chrislove](http://twitter.com/#!/chrislove)
@@ -68,10 +64,6 @@ Rob has developed IT solutions for more than 15 years with a diverse background 
 {% img left http://gravatar.com/avatar/719c91f5c3013e43ee46ed2bdc67f883?s=128 %}
 [www.hanselman.com/blog](http://www.hanselman.com/blog/)	
 [@shanselman](http://twitter.com/#!/shanselman)
-
-## Stephanie Rieger
-[yiibu.com](http://yiibu.com/)	
-[@stephanierieger](http://twitter.com/#!/stephanierieger)
 
 ## Steve Presley
 [stevepresley.net](http://stevepresley.net)	

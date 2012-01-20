@@ -1,23 +1,21 @@
 ---
 layout: page
-title: "Let's do this together"
-date: 2011-10-11 11:17
+title: "The Scenario"
+date: 2012-1-19 11:17
 comments: true
 sharing: true
 footer: true
 ---
-This is an effort from Microsoft patterns & practices to produce guidance that will help organizations build modern mobile web applications. You can read more about the bigger picture [here](http://liike.github.com/).
+One of the first things the project needed to do was identify the high-level scenario it intended to address. We initially posted [several possible scenarios](/scenarios/possibilities.html), talked to a bunch of customers, listened to the community, and chose the winner. This is it.
 
-## Possibilities
+## Adding a mobile experience to an existing web application
 
-We want to be able to focus our efforts on real problems that developers and designers are facing today. We've come up with four scenarios. We need you to evaluate these, vote up the useful ones and suggest new ones.
+You work for Contoso Automotive. Contoso has an existing browser-based application that allows users to track the fuel efficiency of their vehicles. The existing application takes advantage of many modern browser features, however the current experience does not translate well to mobile. You have been tasked with significantly improving the experience on mobile devices. The high level considerations for your project are:
 
-* [Adding a mobile experience to an existing web app](/scenarios/extending-existing-apps.html)
-* [Exploring large data sets on mobile devices](/scenarios/exploring-large-data-sets.html)
-* [Greenfield mobile-first development](/scenarios/greenfield-mobile-first.html)
-* [Secure and Long-lived Line-of-Business apps](/scenarios/line-of-business.html)
-
-Is something missing? Let us know in the comments below. Get your friends, neighbors and coworkers to vote it up and we'll add it to the "official" list above.
-
-<a rel="next" href="/scenarios/extending-existing-apps.html">Get Started</a>
+* The user experience should center around what users do most often (based on the device).
+* Users should be able to "get in and out" with minimal gestures.
+* The mobile application should not depend on hardware specifics, such as accelerometers, gyroscopes, etc. but can make use of the device's current location when available. 
+* Primarily concerned with users in the North American market. Then Europe. Then Asia.
+* Features should be driven by customer feedback.
+* Minimize the cost of maintenance by utilizing existing code when possible. 
 
