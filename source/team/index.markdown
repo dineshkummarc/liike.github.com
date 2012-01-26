@@ -20,3 +20,14 @@ Don Smith is a Senior Program Manager on the [patterns & practices](http://msdn.
 Christopher Bennage is a Software Development Engineer on the [patterns & practices](http://msdn.microsoft.com/practices) team at Microsoft. Since arriving at Microsoft his focus has been on HTML5 and JavaScript. Prior to Microsoft, Christopher was a consultant specializing in client technologiesfor .NET, including WPF, Silverlight, and ASP.NET MVC. 
 
 Christopher embraces agile software principles and is an advocate of open source software. You can follow him on [Twitter](http://twitter.com/bennage) or check out his [blog](http://dev.bennage.com/)
+
+## Pablo Cibraro
+
+{% img left http://gravatar.com/avatar/6ae6efd727a2f593e0422c83484b0016?s=160 %}
+
+Pablo is an internationally recognized expert with over 12 years of experience in designing and implementing large distributed systems with Microsoft technologies, a Connected System MVP and also one of the Agilesight cofounders.
+
+He spent several years of his career working directly with different Microsoft teams on sample applications, tools and frameworks for building service-oriented applications with Web Services and Windows Communication Foundation (WCF). 
+He now focuses on technologies that enable developers to build large scale systems and web applications with focus on web mobile, such as HTML5, Node.js, ASP.NET or Windows Azure.
+
+The community knows Pablo mainly for his weblog at [http://weblogs.asp.net/cibrax/](http://weblogs.asp.net/cibrax/) and active participation in conferences and forums
