@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Project Liike (LEEE-keh)</title>
+  <title>Advisory Board Meeting Notes, November 23, 2011 - Project Liike (LEEE-keh)</title>
   <meta name="author" content="Microsoft patterns &amp; practices">
 
   
-  <meta name="description" content="    Project Liike is an effort to produce guidance that helps organizations build mobile web experiences based off of existing web applications. Th...">
+  <meta name="description" content="        Advisory Board Meeting Notes, November 23, 2011      Nov 23rd, 2011      Here are then notes from Project Liike&#8217;s first advisory boar...">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://liike.github.com/">
+  <link rel="canonical" href="http://liike.github.com/advisors/2011-11-23/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -72,36 +72,85 @@ $.domReady(function() {
       <div>
 <article role="article">
   
-  <p>Project Liike is an effort to produce guidance that helps organizations build mobile web experiences based off of existing web applications. There are countless devices available today and all indications suggest this number is only going to grow, without convergence. The factors to help choose between native apps and web apps are fairly well-known. Those who choose the web face numerous <a href="http://liike.uservoice.com">decisions and challenges</a> based on their requirements. This project aims to help.</p>
+  <header>
+    <h1 class="entry-title">Advisory Board Meeting Notes, November 23, 2011</h1>
+    <p class="meta">
 
-<h2>Who</h2>
 
-<p>The <a href="http://msdn.microsoft.com/practices">Microsoft patterns &amp; practices</a> team is a group of engineers (developers, testers, program managers), designers, and technical writers who produce guidance to help the larger community build solutions. We hope to make the mistakes so you don&#8217;t have to.</p>
 
-<h2>What</h2>
 
-<p>Generally speaking, the guidance is delivered in two related forms: code and prose. We have identified the project&#8217;s <a href="/scenarios">scenario</a> and are currently building a sample application, called Mileage Stats Mobile. It will be released as open source along with all of its unit tests. <em>At the moment we&#8217;re still jumping the legal hurdles to make the repository public, but it shouldn&#8217;t be too much longer.</em> We&#8217;re also publishing the necessary <a href="http://github.com/liike/docs">documentation topics</a> to describe our lessons learned, decision points and recommendations. This will all be completely free, no drama.</p>
 
-<h2>Principles</h2>
+  
+
+
+
+<time datetime="2011-11-23T13:58:00-08:00" pubdate  data-updated="true" >Nov 23<span>rd</span>, 2011</time></p>
+  </header>
+  
+  <p>Here are then notes from Project Liike&#8217;s first advisory board meeting. The goal of the meeting was to introduce the project and its objectives, as well as soliciting some initial feedback about the project&#8217;s intent.</p>
+
+<p>Comments and discussion are welcome.</p>
+
+<h2>Goals for project</h2>
+
+<p>In order to provide clarification and to encourage solidarity, members on the board asked the <a href="/team" title="the official team members">project team</a> to provide a terse and focused statement about the project&#8217;s objective. After the meeting concluded, the team summarized the objective as:</p>
+
+<blockquote><p>The primary objective of Project Liike is to harvest a set of guidance for web developers who need to extend existing web applications to include a mobile experience. The mobile experience will be built upon HTML5 as the platform because we anticipate these applications running on devices that do not even exist yet. We will achieve this by building a reference application under the real-world challenge of balancing value and available resources.</p></blockquote>
+
+
+<h2>Deliverables</h2>
+
+<p>What are the actual deliverables for Project Liike?</p>
 
 <ul>
-<li>This project values open, standards-based development</li>
-<li>We value the great work already available from others and intend to thank existing thought-leaders through attribution</li>
-<li>This work should happen in the open so everyone is able to follow along</li>
-<li>This project represents a conversation not a dictation</li>
-<li>We would like to meet the community where it is - using what it&#8217;s using</li>
-<li>The guidance should be based on the best thinking available but also the scenarios customers care about</li>
-<li>Will use the best open source libraries/frameworks available when appropriate</li>
+<li><p><strong>Reference Implementation</strong> or RI, this is essentially an end-to-end sample application. It&#8217;s the primary code deliverable from the project. We will build this application based on the <a href="/scenarios/extending-existing-apps.html">Extending Existing Apps scenario</a>. The application will be driven by a set of forthcoming user stories. Additionally, we will be utilizing assets from p&amp;p&#8217;s <a href="http://silk.codeplex.com/">Project Silk</a> as the existing web application.</p></li>
+<li><p><strong>Patterns &amp; How-To&#8217;s</strong> as we identify and encounter problems during the development we&#8217;ll catalog them. The outcome will be similar to Brad Frost&#8217;s <a href="http://mobilewebbestpractices.com/">Mobile Web Best Practices</a>. However, our intent is not to replace or overshadow existing works but rather to compliment and credit.</p>
+
+<ul>
+<li><p><em>Patterns</em> are more formal abstractions that include a problem, a solution (typically independent of a particular technology), a sample implementation of the solution, and guidance about when the pattern is appropriate.</p></li>
+<li><p><em>How To&#8217;s</em> will be articles focusing on how to perform a specific tasks (e.g., delivering the appropriate content to a feature phone from an ASP.NET application).</p></li>
+</ul>
+</li>
+<li><p><strong>Target Topics</strong> will be more general articles discussing a higher level context and project decisions. Some topics we have already proposed are:</p>
+
+<ul>
+<li>When is <a href="http://jquerymobile.com/">jQuery mobile</a> the best solution? and why are we not using it in Liike?</li>
+<li>When is <a href="http://phonegap.com/">PhoneGap/CallBack</a> appropriate to use? and why are we not using it in Liike?</li>
+<li>What is the spectrum of choices for building applications for mobile devices? Native, mobile web, and things in between.</li>
+</ul>
+</li>
 </ul>
 
 
-<h2>How</h2>
+<h2>Schedule</h2>
 
-<p>We hire experts, developers, testers, and writers to augment our team of full-time employees to build these deliverables. We do so using agile/scrum team practices that operate on weekly or fortnightly sprints. At the end of each iteration we hold calls with a <a href="/advisors">group of advisors</a> to demo the new stuff, discuss decision points, and get feedback on our direction. This feedback is crucial to our success.</p>
+<p>The project has officially started, but we are still ramping up. We have have an extended break for the second half of December, then we will run full time from January through March.</p>
 
-<h2>Liike?</h2>
+<p>We will be having regular advisory board meetings begins in January, one every other week.</p>
 
-<p>It&#8217;s a Finnish word that means <em>motion/movement</em>, which not only represents the mobility the devices provide, but how web usage is moving from desktops to devices.</p>
+<p>The project team is employing an iterative development/design process. We will demonstrate the reference application at each advisory board meeting and present any new guidance for review.</p>
+
+<h2>Discussion</h2>
+
+<p>The advisory board had a healthy discussion about the nature, intent, and expectations of the project. To summarize:</p>
+
+<dl>
+<dt>What is the specific objective of this project?</dt>
+<dd>In addition to what has already been published on this site, we attempted to summarize the objective. See above, under Goals.</dd>
+
+<dt>How does Project Liike differ from Mobile ★ Boilerplate and Mobile Web Best Practices?</dt>
+<dd>
+<ul>
+<li>
+<strong><a href="http://html5boilerplate.com/mobile">Mobile ★ Boilerplate</a></strong> is specifically meant to be a reusable template. There is excellent guidance packed into it. However, Liike is meant to provide higher level guidance exploring the how&#8217;s and why&#8217;s of building a mobile experience. Project Liike is not aiming to create a reusable asset to solve a specific problem, rather (in the words of one of the advisors) we hope to &#8220;teach developers how to fish, and not simply give them a fish&#8221;.</li>
+<li>
+<strong><a href="http://mobilewebbestpractices.com/">Mobile Web Best Practices</a></strong> does have some similarities to Project Liike as noted above. The primary difference is that our guidance will center about our reference application.</li>
+</ul>
+</dd>
+<dt>Project Liike seems shy about producing &#8220;reusable components&#8221;? Is this a good thing or a bad thing?</dt>
+<dd>Firstly, there may have been some confusion over the term &#8220;reusable components&#8221;. There will definitely be plenty of source code for developers to examine and reuse as they will. However, we are not _planning_ to produce a library or framework as part of Project Liike. If that happens as a natural side-effect, that&#8217;s okay. We don&#8217;t know exactly what problems we&#8217;ll be encountering in this project, and we believe it would be presumptuous for us to plan to build a library or framework. This topic will continue to be discussed by the advisors and the project team.</dd>
+</dl>
+
 
   
     <footer>
@@ -117,13 +166,13 @@ $.domReady(function() {
 
 
 
-<time datetime="2012-01-20T15:50:00-08:00" pubdate  data-updated="true" >Jan 20<span>th</span>, 2012</time>
+<time datetime="2011-11-23T13:58:00-08:00" pubdate  data-updated="true" >Nov 23<span>rd</span>, 2011</time>
         
       </p>
       
         <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://liike.github.com/index.html" data-via="" data-counturl="http://liike.github.com/index.html" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://liike.github.com/advisors/2011-11-23/index.html" data-via="" data-counturl="http://liike.github.com/advisors/2011-11-23/index.html" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -229,8 +278,8 @@ $.domReady(function() {
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://liike.github.com/index.html';
-        var disqus_url = 'http://liike.github.com/index.html';
+        var disqus_identifier = 'http://liike.github.com/advisors/2011-11-23/index.html';
+        var disqus_url = 'http://liike.github.com/advisors/2011-11-23/index.html';
         var disqus_script = 'embed.js'
       
 
